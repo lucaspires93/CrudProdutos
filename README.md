@@ -27,11 +27,12 @@ Esta é uma API REST desenvolvida com Spring Boot, Spring Data JPA e PostgreSQL 
 
 ---
 
-## 🗂 Estrutura do Produto
+## 🧠 Aprendizados Adquiridos
 
-```json
-{
-  "nome": "Teclado Mecânico",
-  "quantidade": 10,
-  "preco": 299.90
-}
+- Compreensão prática de como construir uma API REST completa com Spring Boot.  
+- Aplicação do padrão Service Layer para separação clara de responsabilidades.  
+- Utilização do Spring Data JPA para persistência, consultas e manipulação de dados.  
+- Configuração e integração de um banco PostgreSQL com Spring.  
+- Modelagem de entidades utilizando JPA e anotações fundamentais.  
+- Uso do Lombok para reduzir boilerplate e tornar o código mais limpo.  
+- Implementação de um
